@@ -1,15 +1,25 @@
 body {
- background-image: "images/Backgrouund.png";
+ font-family: "Verdana";
+ background-image: url("../images/Background.png");
+ font-size: 26px;
+ height: 100%; 
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 
 img {
     border: 10px solid black;
-    width : 525px;
-    height : 700px;
+    width : 18%;
+    height : 18%;
     margin-left: auto;
-    margin-right: auto;
+    margin-right: 10px;
     border-radius: 25px;
+    background-color: #ffffff
+    
 
 }
 
@@ -26,9 +36,8 @@ p {
   text-align: center;
   text-decoration: none;
   display: inline-block;
-  font-size: 32px;
+  font-size: 26px;
   margin: 4px 2px;
   cursor: pointer;
   border-radius: 25px;
 }
-
