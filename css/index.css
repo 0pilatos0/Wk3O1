@@ -41,3 +41,7 @@ p {
   cursor: pointer;
   border-radius: 25px;
 }
+
+.button.middle{
+  background-color: #4caf50;
+}
