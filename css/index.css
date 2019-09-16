@@ -1,0 +1,34 @@
+body {
+ background-image: "images/Backgrouund.png";
+}
+
+
+img {
+    border: 10px solid black;
+    width : 525px;
+    height : 700px;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 25px;
+
+}
+
+p {
+    text-align: center;
+    
+}
+
+.button {
+  background-color: #367c39 ;
+  border: none;
+  color: white;
+  padding: 30px 62px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 32px;
+  margin: 4px 2px;
+  cursor: pointer;
+  border-radius: 25px;
+}
+
